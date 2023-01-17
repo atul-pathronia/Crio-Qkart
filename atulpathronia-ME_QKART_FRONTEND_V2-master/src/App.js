@@ -8,7 +8,7 @@ import Checkout from "./components/Checkout"
 import Thanks from "./components/Thanks"
 
 export const config = {
-  endpoint: `https://qtrip-dynamic-vdnk.onrender.com`,
+  endpoint: `https://qkart-frontend-nfvy.onrender.com`,
 };
 
 function App() {
